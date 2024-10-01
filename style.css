@@ -1,0 +1,22 @@
+body {
+
+
+    background-color: pink;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+h1 {
+
+  text-align: center;
+  color: rgb(226, 58, 86);
+  font-weight: bolder;
+}
+  
+ul{
+
+ color: rgb(226, 58, 86);
+
+
+}
