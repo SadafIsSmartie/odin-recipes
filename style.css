@@ -7,16 +7,29 @@ body {
     height: 100vh;
 }
 
+
+ div {
+    background-color:rgb(250, 132, 162);
+    padding: 50px;
+}
+
 h1 {
 
   text-align: center;
   color: rgb(226, 58, 86);
   font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif
 }
   
+img {
+  
+padding-left: 50px;
+  
+}
+
 ul{
 
  color: rgb(226, 58, 86);
 
-
+ text-align: left;
 }
